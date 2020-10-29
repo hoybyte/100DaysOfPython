@@ -1,0 +1,1 @@
+[2020-10-18 12:44:46.534825] TRACE: App: Received input
